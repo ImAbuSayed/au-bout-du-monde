@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/au-bout-du-monde/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Au Bout Du Monde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/au-bout-du-monde/) |
+| **Get License** | [Official Music Licensing for Au Bout Du Monde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/au-bout-du-monde/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Viens dans mon gamos, le temps s'arrête dans la nuit
+> Rapproche-toi de moi, je serai ton alibi
+> Un aller simple, on s'évade au bout du monde
+> Dans tes yeux envoûtants, la tentation est profonde
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
